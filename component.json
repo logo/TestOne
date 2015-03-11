@@ -1,0 +1,19 @@
+{
+  "logo": "Testing",
+  "name": "TestOne",
+  "repo": "logo/TestOne",
+  "description": "The Testing logo.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}
